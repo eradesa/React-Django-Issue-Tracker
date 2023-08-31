@@ -1,6 +1,4 @@
-# React-Django-Issue-Tracker
-
-# Further Developments to be done
+###Further Developments to be done###
 
 Mandatory field validations
  
